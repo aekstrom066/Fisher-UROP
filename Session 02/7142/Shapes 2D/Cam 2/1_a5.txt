@@ -1,0 +1,31 @@
+<shapes type=list>
+	<scaling type=logical names=FALSE length=1 as.numeric=FALSE >NA</scaling>
+	<landmarks.pixel type=matrix rownames=TRUE colnames=FALSE nrow=25 ncol=2 as.numeric=TRUE >
+		Right_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	429	2996
+		Left_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	314	2377
+		Right_Lateral_8-Tip_of_the_most_anterior_of_2_ventral_squamosal_projections	2134	2956
+		Left_Lateral_8-Tip_of_the_most_anterior_of_2_ventral_squamosal_projections	1843	1522
+		Right_Lateral_9-Tip_of_the_hamulus_on_the_pterygoid_process	2116	2371
+		Left_Lateral_9-Tip_of_the_hamulus_on_the_pterygoid_process	2035	1994
+		Right_Lateral_11-Tip_of_the_jugular_process	2994	2425
+		Left_Lateral_11-Tip_of_the_jugular_process	2801	1545
+		Ventral_1-Juncture_between_incisors_on_the_premaxilla	109	2736
+		Ventral_2-Posterior_point_of_incisive_foramen	328	2747
+		Ventral_13-Posterior_point_of_incisive_foramen	306	2629
+		Ventral_3-Anterior_edge_of_P4	851	2906
+		Ventral_14-Anterior_edge_of_P4	720	2182
+		Ventral_4-Posterior_edge_of_P4	1183	2937
+		Ventral_15-Posterior_edge_of_P4	1010	1976
+		Ventral_5-Point_of_max_external_curvature_of_M1_at_protocone	1397	2698
+		Ventral_16-Point_of_max_external_curvature_of_M1_at_protocone	1289	2094
+		Ventral_6-Posterior_junction_of_left_and_right_palatine	1683	2319
+		Ventral_8-Tip_of_ventral_squamosal_projection	2117	2658
+		Ventral_18-Tip_of_ventral_squamosal_projection	1935	1772
+		Ventral_9-Anterior_point_of_external_auditory_meatus	2475	2726
+		Ventral_19-Anterior_point_of_external_auditory_meatus	2237	1510
+		Ventral_10-Posterior_edge_of_the_jugular_foramen	2882	2249
+		Ventral_20-Posterior_edge_of_the_jugular_foramen	2786	1764
+		Ventral_12-Anterior_point_of_the_foramen_magnum	2932	1959
+	</landmarks.pixel>
+</shapes>
+

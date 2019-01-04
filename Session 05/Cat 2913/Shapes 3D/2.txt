@@ -1,0 +1,13 @@
+<shapes type=list>
+	<landmarks type=matrix rownames=TRUE colnames=FALSE nrow=6 ncol=3 as.numeric=TRUE >
+		Right_Lateral_10-Posterior_point_of_the_external_auditory_meatus	-41.2516267423099	-27.7372637786873	11.1922423424793
+		Right_Lateral_11-Tip_of_the_jugular_process	-59.0837263941365	-23.2040157396858	16.0881650240478
+		Right_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	35.2574086272684	7.31841823366483	13.8089217486415
+		Right_Lateral_4-Posterior_end_of_molar_row	0.803291070812776	-0.859181257941231	16.6732093335825
+		Right_Lateral_6-Tip_of_the_postorbital_process	2.94457138147562	9.78946473480724	-7.67238762965932
+		Right_Lateral_7-Posterior_point_of_the_optic_foramen_on_the_orbitosphenoid	-14.1665781231446	0.695581980682533	7.59711531180949
+	</landmarks>
+	<curves type=list>
+	</curves>
+</shapes>
+

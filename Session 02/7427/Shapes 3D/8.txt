@@ -1,0 +1,32 @@
+<shapes type=list>
+	<landmarks type=matrix rownames=TRUE colnames=FALSE nrow=25 ncol=3 as.numeric=TRUE >
+		Left_Lateral_11-Tip_of_the_jugular_process	-29.9718197457591	-51.3464812886086	-6.0628827704038
+		Left_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	54.5201018120422	-71.9473804391747	-3.07790393322557
+		Left_Lateral_8-Tip_of_the_most_anterior_of_2_ventral_squamosal_projections	-2.7886723693663	-68.2195428188754	-4.65779927005906
+		Left_Lateral_9-Tip_of_the_hamulus_on_the_pterygoid_process	-1.93782433007159	-55.4075728618735	-14.3418264819117
+		Right_Lateral_11-Tip_of_the_jugular_process	-21.9412304553827	-27.9489998959373	-15.9620153739706
+		Right_Lateral_4-Posterior_end_of_molar_row	28.1174661862421	-49.0442536488751	-14.0270612740542
+		Right_Lateral_8-Tip_of_the_most_anterior_of_2_ventral_squamosal_projections	9.23333466640803	-29.6055300667209	-17.9750190082452
+		Right_Lateral_9-Tip_of_the_hamulus_on_the_pterygoid_process	1.20723276295836	-44.9039213268401	-18.5682629733421
+		Ventral_1-Juncture_between_incisors_on_the_premaxilla	65.0865308880365	-66.5256453397248	-7.62569965438638
+		Ventral_10-Posterior_edge_of_the_jugular_foramen	-21.2055703067808	-33.4869229939215	-13.7014637501319
+		Ventral_12-Anterior_point_of_the_foramen_magnum	-27.8772757562412	-40.7837137209384	-13.9565733431087
+		Ventral_13-Posterior_point_of_incisive_foramen	58.9127107423948	-66.3160633823661	-6.01592784487684
+		Ventral_14-Anterior_edge_of_P4	37.8221945788733	-71.7574871055723	-9.1113769895087
+		Ventral_15-Posterior_edge_of_P4	27.336858428272	-71.8567562352824	-9.99495953169674
+		Ventral_16-Point_of_max_external_curvature_of_M1_at_protocone	22.673578329802	-64.1468423727197	-9.09014848143272
+		Ventral_18-Tip_of_ventral_squamosal_projection	-3.85253915064444	-60.6831484480246	-10.1662234945404
+		Ventral_19-Anterior_point_of_external_auditory_meatus	-13.8127888315098	-61.9334535114887	-5.0332148409841
+		Ventral_2-Posterior_point_of_incisive_foramen	59.8734514373933	-62.7914171584918	-7.19779091824586
+		Ventral_20-Posterior_edge_of_the_jugular_foramen	-26.1209014575869	-47.6178026040844	-8.70643997234862
+		Ventral_3-Anterior_edge_of_P4	44.514420474025	-51.042323389426	-16.4913533457222
+		Ventral_4-Posterior_edge_of_P4	35.4637999711201	-46.316470146668	-19.5065918216054
+		Ventral_5-Point_of_max_external_curvature_of_M1_at_protocone	27.5629977844355	-47.9789114076248	-15.2646132880711
+		Ventral_6-Posterior_junction_of_left_and_right_palatine	12.9030746870251	-52.5087511650648	-12.1690051152801
+		Ventral_8-Tip_of_ventral_squamosal_projection	3.67358601632735	-37.631115890761	-18.6837222065407
+		Ventral_9-Anterior_point_of_external_auditory_meatus	-2.86879571782631	-28.8633735289718	-17.1373065266442
+	</landmarks>
+	<curves type=list>
+	</curves>
+</shapes>
+

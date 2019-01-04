@@ -1,0 +1,12 @@
+<shapes type=list>
+	<scaling type=logical names=FALSE length=1 as.numeric=FALSE >NA</scaling>
+	<landmarks.pixel type=matrix rownames=TRUE colnames=FALSE nrow=6 ncol=2 as.numeric=TRUE >
+		Right_Lateral_2-Intersection_of_anterior_margin_of_canine_with_maxilla	5061	2795
+		Right_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	4840	2846
+		Right_Lateral_6-Tip_of_the_postorbital_process	4042	2481
+		Lateral_13-Anterior_extent_of_the_nasal-premaxilla_suture	5095	2316
+		Right_Lateral_14-Tip_of_the_postmandibular_process	3900	2969
+		Left_Lateral_14-Tip_of_the_postmandibular_process	3947	1290
+	</landmarks.pixel>
+</shapes>
+

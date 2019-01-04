@@ -1,0 +1,15 @@
+<shapes type=list>
+	<landmarks type=matrix rownames=TRUE colnames=FALSE nrow=8 ncol=3 as.numeric=TRUE >
+		Right_Lateral_2-Intersection_of_anterior_margin_of_canine_with_maxilla	62.9067039990648	-36.0438610467527	37.0035942174565
+		Right_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	57.9587139372293	-37.6043455904349	38.511509695993
+		Right_Lateral_4-Posterior_end_of_molar_row	25.6622374945882	-38.3920781427084	40.8056209584878
+		Right_Lateral_5-Midpoint_of_the_infraorbital_foramen	38.9412668203669	-40.0568215707154	30.7322842512922
+		Right_Lateral_6-Tip_of_the_postorbital_process	26.11872420623	-25.1702048848367	22.5582592369931
+		Right_Lateral_7-Posterior_point_of_the_optic_foramen_on_the_orbitosphenoid	NA	NA	NA
+		Right_Lateral_8-Tip_of_the_most_anterior_of_2_ventral_squamosal_projections	NA	NA	NA
+		Right_Lateral_9-Tip_of_the_hamulus_on_the_pterygoid_process	NA	NA	NA
+	</landmarks>
+	<curves type=list>
+	</curves>
+</shapes>
+

@@ -1,0 +1,15 @@
+<shapes type=list>
+	<scaling type=logical names=FALSE length=1 as.numeric=FALSE >NA</scaling>
+	<landmarks.pixel type=matrix rownames=TRUE colnames=FALSE nrow=9 ncol=2 as.numeric=TRUE >
+		Right_Lateral_1-Intersection_of_anterior_margin_of_I3_with_premaxilla	1161	2722
+		Left_Lateral_1-Intersection_of_anterior_margin_of_I3_with_premaxilla	1236	3000
+		Right_Lateral_2-Intersection_of_anterior_margin_of_canine_with_maxilla	1241	2576
+		Left_Lateral_2-Intersection_of_anterior_margin_of_canine_with_maxilla	1383	3083
+		Right_Lateral_6-Tip_of_the_postorbital_process	2478	2013
+		Left_Lateral_6-Tip_of_the_postorbital_process	2703	2917
+		Lateral_13-Anterior_extent_of_the_nasal-premaxilla_suture	1483	2763
+		Right_Lateral_14-Tip_of_the_postmandibular_process	2444	1697
+		Left_Lateral_14-Tip_of_the_postmandibular_process	2815	3194
+	</landmarks.pixel>
+</shapes>
+

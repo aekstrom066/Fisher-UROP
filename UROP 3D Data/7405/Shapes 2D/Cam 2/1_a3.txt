@@ -1,0 +1,11 @@
+<shapes type=list>
+	<scaling type=logical names=FALSE length=1 as.numeric=FALSE >NA</scaling>
+	<landmarks.pixel type=matrix rownames=TRUE colnames=FALSE nrow=5 ncol=2 as.numeric=TRUE >
+		Left_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	1457	2897
+		Left_Lateral_4-Posterior_end_of_molar_row	2419	2985
+		Left_Lateral_6-Tip_of_the_postorbital_process	2359	2238
+		Left_Lateral_10-Posterior_point_of_the_external_auditory_meatus	3581	3167
+		Left_Lateral_11-Tip_of_the_jugular_process	4140	3194
+	</landmarks.pixel>
+</shapes>
+

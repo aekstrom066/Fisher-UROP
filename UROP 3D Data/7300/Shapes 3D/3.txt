@@ -1,0 +1,18 @@
+<shapes type=list>
+	<landmarks type=matrix rownames=TRUE colnames=FALSE nrow=11 ncol=3 as.numeric=TRUE >
+		Right_Lateral_1-Intersection_of_anterior_margin_of_I3_with_premaxilla	67.8740373955584	-81.9909179123678	-29.5947602066531
+		Right_Lateral_10-Posterior_point_of_the_external_auditory_meatus	-13.2560384106505	-63.9462819974997	15.616661879874
+		Right_Lateral_11-Tip_of_the_jugular_process	-18.0997216204765	-57.1530420533302	31.5612038356312
+		Right_Lateral_2-Intersection_of_anterior_margin_of_canine_with_maxilla	60.9212091763274	-82.3149539288789	-31.6220909243187
+		Right_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	56.3518586211902	-83.1167183656154	-25.4299693212405
+		Right_Lateral_4-Posterior_end_of_molar_row	31.4120421322165	-71.7488863919609	-2.58089510293709
+		Right_Lateral_5-Midpoint_of_the_infraorbital_foramen	37.5989433404565	-74.144687030158	-22.1049964597732
+		Right_Lateral_6-Tip_of_the_postorbital_process	27.3583143915364	-52.4995037165408	-20.7952282572542
+		Right_Lateral_7-Posterior_point_of_the_optic_foramen_on_the_orbitosphenoid	23.2439271300394	-58.4789838902209	3.72339915439994
+		Right_Lateral_8-Tip_of_the_most_anterior_of_2_ventral_squamosal_projections	-0.645984415180578	-69.7978082246032	5.50853718687586
+		Right_Lateral_9-Tip_of_the_hamulus_on_the_pterygoid_process	11.6628646472595	-66.0790342507949	22.3317424315719
+	</landmarks>
+	<curves type=list>
+	</curves>
+</shapes>
+

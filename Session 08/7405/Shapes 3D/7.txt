@@ -1,0 +1,15 @@
+<shapes type=list>
+	<landmarks type=matrix rownames=TRUE colnames=FALSE nrow=8 ncol=3 as.numeric=TRUE >
+		Lateral_13-Anterior_extent_of_the_nasal-premaxilla_suture	67.7322272277978	-30.9576288625389	9.25637951327138
+		Right_Lateral_1-Intersection_of_anterior_margin_of_I3_with_premaxilla	73.0638726252417	-34.0030779690042	21.3805850813748
+		Right_Lateral_10-Posterior_point_of_the_external_auditory_meatus	-6.74961587391351	-31.1314212025845	31.6895994084613
+		Right_Lateral_11-Tip_of_the_jugular_process	-20.1831092747449	-22.1042014997004	29.7545812977219
+		Right_Lateral_14-Tip_of_the_postmandibular_process	30.4138478375763	-45.3063371454651	17.8046615223849
+		Right_Lateral_2-Intersection_of_anterior_margin_of_canine_with_maxilla	69.461139164632	-37.087206233267	22.375347676775
+		Right_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	64.0968142825849	-36.6667567674961	24.4114794638907
+		Right_Lateral_6-Tip_of_the_postorbital_process	32.5131105051786	-38.3511026056738	5.5119056168927
+	</landmarks>
+	<curves type=list>
+	</curves>
+</shapes>
+

@@ -1,0 +1,49 @@
+<shapes type=list>
+	<landmarks type=matrix rownames=TRUE colnames=FALSE nrow=42 ncol=3 as.numeric=TRUE >
+		Lateral_13-Anterior_extent_of_the_nasal-premaxilla_suture	60.3782853030769	-34.5263985330429	16.864184488979
+		Left_Lateral_1-Intersection_of_anterior_margin_of_I3_with_premaxilla	68.629683260545	-40.8193047812112	26.162467946649
+		Left_Lateral_10-Posterior_point_of_the_external_auditory_meatus	0.691807791278173	-16.9325771665138	65.9843414848724
+		Left_Lateral_11-Tip_of_the_jugular_process	-14.7159356076441	-19.5808148426308	66.2253969331622
+		Left_Lateral_14-Tip_of_the_postmandibular_process	37.6637828156596	-13.7525396330624	45.1015916649983
+		Left_Lateral_2-Intersection_of_anterior_margin_of_canine_with_maxilla	67.072070908882	-38.1568312858381	29.6810975087444
+		Left_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	62.8935078560328	-37.8183329525475	33.2836273424533
+		Left_Lateral_4-Posterior_end_of_molar_row	32.2022660412377	-31.6198135433674	44.4854821541993
+		Left_Lateral_5-Midpoint_of_the_infraorbital_foramen	48.9361264856783	-26.8736295017605	40.9045070343629
+		Left_Lateral_6-Tip_of_the_postorbital_process	34.7820043553331	-13.7516011888251	31.3085607748678
+		Left_Lateral_7-Posterior_point_of_the_optic_foramen_on_the_orbitosphenoid	19.5006876610154	-27.49494830424	41.1719534402357
+		Left_Lateral_8-Tip_of_the_most_anterior_of_2_ventral_squamosal_projections	16.5244630615371	-19.0034747101272	59.9963271005377
+		Left_Lateral_9-Tip_of_the_hamulus_on_the_pterygoid_process	6.74372695371723	-32.7372171242717	54.7457840737153
+		Right_Lateral_1-Intersection_of_anterior_margin_of_I3_with_premaxilla	65.2123896576116	-48.3047526920684	20.3669641956691
+		Right_Lateral_10-Posterior_point_of_the_external_auditory_meatus	-15.0732182926186	-43.2052409632492	37.357012925131
+		Right_Lateral_11-Tip_of_the_jugular_process	-25.2810441149599	-35.7418401370498	46.9225814881814
+		Right_Lateral_14-Tip_of_the_postmandibular_process	19.8716043134122	-42.8212783287293	14.7736771979587
+		Right_Lateral_2-Intersection_of_anterior_margin_of_canine_with_maxilla	60.4337864846338	-50.1224212639002	18.656404094265
+		Right_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	55.7484184748359	-49.9603078372176	21.6493015497569
+		Right_Lateral_4-Posterior_end_of_molar_row	25.349235438376	-43.1484783507478	33.2174605336996
+		Right_Lateral_5-Midpoint_of_the_infraorbital_foramen	36.8281814067192	-47.6817696744109	20.0747546324376
+		Right_Lateral_6-Tip_of_the_postorbital_process	25.0515834933866	-30.0100792891279	14.6021154025247
+		Right_Lateral_7-Posterior_point_of_the_optic_foramen_on_the_orbitosphenoid	15.6536420772095	-33.7139112808826	34.7548773950804
+		Right_Lateral_8-Tip_of_the_most_anterior_of_2_ventral_squamosal_projections	-0.831209484276791	-47.071843835663	30.2422692501177
+		Right_Lateral_9-Tip_of_the_hamulus_on_the_pterygoid_process	2.52780218017665	-40.2415364972684	46.4989478631119
+		Ventral_1-Juncture_between_incisors_on_the_premaxilla	66.9053604292864	-46.8900357458574	25.8803338975325
+		Ventral_10-Posterior_edge_of_the_jugular_foramen	-21.2115296977245	-32.009596213673	50.5786911115069
+		Ventral_12-Anterior_point_of_the_foramen_magnum	-21.2323873379989	-28.9066860091109	59.2685562938221
+		Ventral_13-Posterior_point_of_incisive_foramen	62.1597743696127	-42.6184936743615	27.341879922511
+		Ventral_14-Anterior_edge_of_P4	48.3785261752335	-36.5589504138952	43.4752159086867
+		Ventral_15-Posterior_edge_of_P4	40.3779344251519	-32.7550974824412	49.8997076446532
+		Ventral_16-Point_of_max_external_curvature_of_M1_at_protocone	31.6567783253888	-32.6643722020799	46.6981035518572
+		Ventral_18-Tip_of_ventral_squamosal_projection	11.6389508715295	-27.2962245793791	58.4280567344846
+		Ventral_19-Anterior_point_of_external_auditory_meatus	3.82916137897562	-19.6150630353579	64.1632102642934
+		Ventral_2-Posterior_point_of_incisive_foramen	60.1583596786559	-44.8411544929772	25.1591060495992
+		Ventral_20-Posterior_edge_of_the_jugular_foramen	-15.4253790871833	-22.9402876649826	61.3456271090453
+		Ventral_3-Anterior_edge_of_P4	39.5047511107996	-51.0910506300025	28.1375224588759
+		Ventral_4-Posterior_edge_of_P4	28.9089795453926	-51.6649996247597	29.7663744833539
+		Ventral_5-Point_of_max_external_curvature_of_M1_at_protocone	23.9015460622129	-44.53118993207	33.0456540884775
+		Ventral_6-Posterior_junction_of_left_and_right_palatine	16.5282628611183	-36.0705285529637	44.1443825122764
+		Ventral_8-Tip_of_ventral_squamosal_projection	0.943210509751858	-43.600678241259	39.5478349666978
+		Ventral_9-Anterior_point_of_external_auditory_meatus	-9.76593191284252	-42.5758829577776	38.9327755861633
+	</landmarks>
+	<curves type=list>
+	</curves>
+</shapes>
+

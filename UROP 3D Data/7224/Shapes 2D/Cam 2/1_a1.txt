@@ -1,0 +1,10 @@
+<shapes type=list>
+	<scaling type=logical names=FALSE length=1 as.numeric=FALSE >NA</scaling>
+	<landmarks.pixel type=matrix rownames=TRUE colnames=FALSE nrow=4 ncol=2 as.numeric=TRUE >
+		Right_Lateral_4-Posterior_end_of_molar_row	2971	2953
+		Right_Lateral_7-Posterior_point_of_the_optic_foramen_on_the_orbitosphenoid	2559	2702
+		Right_Lateral_9-Tip_of_the_hamulus_on_the_pterygoid_process	2077	3260
+		Right_Lateral_10-Posterior_point_of_the_external_auditory_meatus	1580	3190
+	</landmarks.pixel>
+</shapes>
+

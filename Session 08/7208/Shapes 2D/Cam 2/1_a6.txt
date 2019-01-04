@@ -1,0 +1,17 @@
+<shapes type=list>
+	<scaling type=logical names=FALSE length=1 as.numeric=FALSE >NA</scaling>
+	<landmarks.pixel type=matrix rownames=TRUE colnames=FALSE nrow=11 ncol=2 as.numeric=TRUE >
+		Right_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	1438	2460
+		Left_Lateral_4-Posterior_end_of_molar_row	2593	1755
+		Ventral_1-Juncture_between_incisors_on_the_premaxilla	1148	2101
+		Ventral_2-Posterior_point_of_incisive_foramen	1403	2163
+		Ventral_13-Posterior_point_of_incisive_foramen	1396	2065
+		Ventral_3-Anterior_edge_of_P4	1885	2358
+		Ventral_14-Anterior_edge_of_P4	1987	1635
+		Ventral_4-Posterior_edge_of_P4	2229	2440
+		Ventral_15-Posterior_edge_of_P4	2342	1473
+		Ventral_5-Point_of_max_external_curvature_of_M1_at_protocone	2549	2318
+		Ventral_16-Point_of_max_external_curvature_of_M1_at_protocone	2615	1692
+	</landmarks.pixel>
+</shapes>
+

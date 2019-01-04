@@ -1,0 +1,11 @@
+<shapes type=list>
+	<landmarks type=matrix rownames=TRUE colnames=FALSE nrow=4 ncol=3 as.numeric=TRUE >
+		Right_Lateral_10-Posterior_point_of_the_external_auditory_meatus	-5.70561055348435	-68.8840787150151	7.49710158900416
+		Right_Lateral_4-Posterior_end_of_molar_row	37.4386269859215	-61.2482201724252	10.2908147076507
+		Right_Lateral_7-Posterior_point_of_the_optic_foramen_on_the_orbitosphenoid	26.4357312313975	-51.1953797082195	8.84531203027825
+		Right_Lateral_9-Tip_of_the_hamulus_on_the_pterygoid_process	10.7209745232096	-60.9969840295619	21.1121362797572
+	</landmarks>
+	<curves type=list>
+	</curves>
+</shapes>
+

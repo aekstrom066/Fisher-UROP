@@ -1,0 +1,29 @@
+<shapes type=list>
+	<landmarks type=matrix rownames=TRUE colnames=FALSE nrow=22 ncol=3 as.numeric=TRUE >
+		Left_Lateral_11-Tip_of_the_jugular_process	78.8097735796565	-40.3981504367665	-15.1997978926064
+		Left_Lateral_8-Tip_of_the_most_anterior_of_2_ventral_squamosal_projections	NA	NA	NA
+		Right_Lateral_11-Tip_of_the_jugular_process	72.1212537399447	-70.651070758551	-16.6609716450384
+		Right_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	-18.5878127813948	-46.1197098859229	5.26984287522862
+		Right_Lateral_8-Tip_of_the_most_anterior_of_2_ventral_squamosal_projections	NA	NA	NA
+		Ventral_1-Juncture_between_incisors_on_the_premaxilla	NA	NA	NA
+		Ventral_10-Posterior_edge_of_the_jugular_foramen	71.3196552469916	-63.077233864035	-14.6017303886863
+		Ventral_12-Anterior_point_of_the_foramen_magnum	77.1425995578279	-55.4565907903923	-17.0000518776283
+		Ventral_13-Posterior_point_of_incisive_foramen	-18.1089475151562	-32.0927853441145	5.75387956721329
+		Ventral_14-Anterior_edge_of_P4	2.01397985136579	-25.2427606946385	-2.73861236506866
+		Ventral_15-Posterior_edge_of_P4	13.8899994861066	-22.6320345799852	-6.29787184106846
+		Ventral_16-Point_of_max_external_curvature_of_M1_at_protocone	20.9163112313518	-31.1351286419724	-4.01217463060357
+		Ventral_18-Tip_of_ventral_squamosal_projection	49.9394761928106	-33.5669816948118	-13.621273242645
+		Ventral_19-Anterior_point_of_external_auditory_meatus	60.9736993657937	-30.5194425564009	-10.2566873874808
+		Ventral_2-Posterior_point_of_incisive_foramen	-18.9889804962527	-35.922053039229	5.43922104783951
+		Ventral_20-Posterior_edge_of_the_jugular_foramen	75.3165255128399	-45.8853874739116	-13.1929138918978
+		Ventral_3-Anterior_edge_of_P4	-4.32193392950784	-50.9191859005845	-5.29036061984016
+		Ventral_4-Posterior_edge_of_P4	5.22351311863271	-57.4674766649424	-9.80151370538977
+		Ventral_5-Point_of_max_external_curvature_of_M1_at_protocone	15.2206388092409	-53.035841438103	-5.85140046049685
+		Ventral_6-Posterior_junction_of_left_and_right_palatine	32.1511585865841	-45.203549383304	-8.40575601598431
+		Ventral_8-Tip_of_ventral_squamosal_projection	43.6139905226231	-62.9271165638137	-16.15005093315
+		Ventral_9-Anterior_point_of_external_auditory_meatus	51.1982916357902	-72.0992995008791	-13.3684075068942
+	</landmarks>
+	<curves type=list>
+	</curves>
+</shapes>
+

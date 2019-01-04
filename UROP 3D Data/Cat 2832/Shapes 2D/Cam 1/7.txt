@@ -1,0 +1,11 @@
+<shapes type=list>
+	<scaling type=logical names=FALSE length=1 as.numeric=FALSE >NA</scaling>
+	<landmarks.pixel type=matrix rownames=TRUE colnames=FALSE nrow=5 ncol=2 as.numeric=TRUE >
+		Right_Lateral_6-Tip_of_the_postorbital_process	2677	1921
+		Left_Lateral_6-Tip_of_the_postorbital_process	2906	2854
+		Lateral_13-Anterior_extent_of_the_nasal-premaxilla_suture	1653	2654
+		Right_Lateral_14-Tip_of_the_postmandibular_process	2640	1648
+		Left_Lateral_14-Tip_of_the_postmandibular_process	2975	3171
+	</landmarks.pixel>
+</shapes>
+

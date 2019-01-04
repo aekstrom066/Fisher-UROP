@@ -1,0 +1,14 @@
+<shapes type=list>
+	<scaling type=logical names=FALSE length=1 as.numeric=FALSE >NA</scaling>
+	<landmarks.pixel type=matrix rownames=TRUE colnames=FALSE nrow=8 ncol=2 as.numeric=TRUE >
+		Left_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	1542	2807
+		Left_Lateral_6-Tip_of_the_postorbital_process	2649	2021
+		Left_Lateral_7-Posterior_point_of_the_optic_foramen_on_the_orbitosphenoid	3249	2665
+		Left_Lateral_8-Tip_of_the_most_anterior_of_2_ventral_squamosal_projections	3716	3145
+		Left_Lateral_9-Tip_of_the_hamulus_on_the_pterygoid_process	3777	3225
+		Left_Lateral_10-Posterior_point_of_the_external_auditory_meatus	4313	3099
+		Left_Lateral_11-Tip_of_the_jugular_process	4793	3135
+		Left_Lateral_14-Tip_of_the_postmandibular_process	2711	2456
+	</landmarks.pixel>
+</shapes>
+

@@ -1,0 +1,17 @@
+<shapes type=list>
+	<scaling type=logical names=FALSE length=1 as.numeric=FALSE >NA</scaling>
+	<landmarks.pixel type=matrix rownames=TRUE colnames=FALSE nrow=11 ncol=2 as.numeric=TRUE >
+		Right_Lateral_1-Intersection_of_anterior_margin_of_I3_with_premaxilla	5098	2765
+		Right_Lateral_2-Intersection_of_anterior_margin_of_canine_with_maxilla	5000	2759
+		Right_Lateral_3-Intersection_of_posterior_margin_of_canine_with_maxilla	4843	2848
+		Right_Lateral_4-Posterior_end_of_molar_row	3730	2994
+		Right_Lateral_5-Midpoint_of_the_infraorbital_foramen	4213	2775
+		Right_Lateral_6-Tip_of_the_postorbital_process	3724	2198
+		Right_Lateral_7-Posterior_point_of_the_optic_foramen_on_the_orbitosphenoid	3303	2732
+		Right_Lateral_8-Tip_of_the_most_anterior_of_2_ventral_squamosal_projections	2889	3054
+		Right_Lateral_9-Tip_of_the_hamulus_on_the_pterygoid_process	2810	3221
+		Right_Lateral_10-Posterior_point_of_the_external_auditory_meatus	2320	3100
+		Right_Lateral_11-Tip_of_the_jugular_process	1874	3164
+	</landmarks.pixel>
+</shapes>
+

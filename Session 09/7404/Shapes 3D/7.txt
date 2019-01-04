@@ -1,0 +1,12 @@
+<shapes type=list>
+	<landmarks type=matrix rownames=TRUE colnames=FALSE nrow=5 ncol=3 as.numeric=TRUE >
+		Right_Lateral_1-Intersection_of_anterior_margin_of_I3_with_premaxilla	64.9935716277207	-70.0803847685649	-12.7762641346104
+		Right_Lateral_10-Posterior_point_of_the_external_auditory_meatus	-3.47892227041132	-61.2100987534978	28.3836584240886
+		Right_Lateral_14-Tip_of_the_postmandibular_process	22.7379186193044	-70.6785136277529	-0.525995699834198
+		Right_Lateral_2-Intersection_of_anterior_margin_of_canine_with_maxilla	61.1424970364664	-71.8969480436997	-10.2025579573885
+		Right_Lateral_6-Tip_of_the_postorbital_process	23.6046767827436	-60.4964669512731	-8.45016566840538
+	</landmarks>
+	<curves type=list>
+	</curves>
+</shapes>
+
